@@ -1,2 +1,2 @@
 # python_challenges
-repo for challenge problems and the like
+Repo for challenge problems and the like
